@@ -1,0 +1,55 @@
+/* Global styles */
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  /* Main content */
+  main {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  /* Section headings */
+  h2 {
+    margin-top: 0;
+  }
+  
+  /* Cat photos */
+  a img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Cat form */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input,
+  label {
+    margin: 0 5px;
+  }
+  
+  fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  legend {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #000;
+  }
